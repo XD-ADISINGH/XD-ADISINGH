@@ -14,7 +14,7 @@ Country = "🇮🇳"
 <a href="https://Instagram.com/___gamechange"><img height="25" src="https://img.shields.io/badge/instagram-%23ffffff.svg?&style=for-the-badge&logo=instagram&logoColor=red"></a>&nbsp;&nbsp;
 <a href="https://telegram.org/TEACH_TEAMOP"><img height="25" src="https://img.shields.io/badge/join telegram-%23ffffff.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp; 
 <a href="https://youtube.com/@TEACH_TEAM"><img height="25" src="https://img.shields.io/badge/join youtube-%23ffffff.svg?&style=for-the-badge&logo=youtube&logoColor=red"></a>&nbsp;&nbsp; 
-<a href="https://xd-adisingh.github.io/Adisingh.github.io/"><img height="25" src="https://img.shields.io/badge/Website-%23ffffff.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://xd-adisingh.github.io/Adisingh.github.io/"><img height="25" src="https://img.shields.io/badge/Website-%23ffffff.svg?&style=for-the-badge&logo=medium&logoColor=pink"></a>&nbsp;&nbsp;
 </p>
 
 ## ⚔️ 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 : <br>
