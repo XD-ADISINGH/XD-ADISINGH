@@ -3,7 +3,7 @@
 <h1 align="center"> ι'м 𝙰𝙳𝙸 𝚂𝙸𝙽𝙶𝙷  </h1> 
 
 <p align='center'> 
-<a href="https://Instagram.com/___gamechange"><img height="25" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=red"></a>&nbsp;&nbsp;
+<a href="https://Instagram.com/___gamechange"><img height="25" src="https://img.shields.io/badge/instagram-%23ffffff.svg?&style=for-the-badge&logo=instagram&logoColor=red"></a>&nbsp;&nbsp;
 <a href="https://telegram.org/TEACH_TEAMOP"><img height="25" src="https://img.shields.io/badge/join telegram-%23ffffff.svg?&style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp; 
 <a href="https://uncoder.eu.org"><img height="25" src="https://img.shields.io/badge/Website-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
 </p>
